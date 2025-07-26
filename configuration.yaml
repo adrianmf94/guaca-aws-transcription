@@ -1,0 +1,9 @@
+DEV:
+  S3:
+    STAGED_BUCKET: staged
+    SHARED_BUCKET: shared
+    RAW_BUCKET: raw
+
+AWS_ACCOUNT:
+  MAIN_ACCOUNT: "378941898896"
+  REGION: "us-east-1"
